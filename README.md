@@ -79,7 +79,7 @@ A collection of awesome things regarding React ecosystem.
   - [Relay Tools](#relay-tools)
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
-- [Videos](#videos)
+- [](#)
   - [Video from Confs](#video-from-confs)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
@@ -898,6 +898,7 @@ A collection of awesome things regarding React ecosystem.
 * [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 * [React for beginners](https://reactforbeginners.com/)
 * [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
+* [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 
 
 ---
